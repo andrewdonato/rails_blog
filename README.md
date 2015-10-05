@@ -1,2 +1,3 @@
 # rails_blog
-A blog created with rails
+A blog created to revisit rails
+
